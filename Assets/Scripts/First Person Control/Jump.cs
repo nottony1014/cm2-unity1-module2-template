@@ -9,7 +9,7 @@ public class Jump : MonoBehaviour
     public KeyCode jumpKey = KeyCode.Space;
 
     private Rigidbody rb;
-    private bool isGrounded = true;
+    private bool isGrounded = false;
 
     void Start()
     {
