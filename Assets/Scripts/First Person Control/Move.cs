@@ -24,5 +24,6 @@ public class Move : MonoBehaviour
         float inputZ = Input.GetAxis("Vertical") * speed * Time.deltaTime;
 
         rb.transform.Translate(inputX, 0, inputZ);
+
     }
 }
