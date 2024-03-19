@@ -27,6 +27,7 @@ Transform:
   m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
   m_LocalPosition: {x: 0, y: 11.9, z: 0}
   m_LocalScale: {x: 1, y: 1, z: 1}
+  m_ConstrainProportionsScale: 0
   m_Children: []
   m_Father: {fileID: 0}
   m_RootOrder: 0
@@ -44,5 +45,6 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   startWaitTime: 4
-  inBetweenWaitTime: 10
-  spawningPrefab: {fileID: 0}
+  inBetweenWaitTime: 5
+  spawningPrefab: {fileID: 8799115073825986269, guid: a543c737f7bb8284d9bdc084d3f42c47,
+    type: 3}
