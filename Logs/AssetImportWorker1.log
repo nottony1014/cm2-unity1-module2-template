@@ -443,3 +443,61 @@ AssetImportParameters requested are different than current active one (requested
   custom:container-demuxer-ogg: 62fdf1f143b41e24485cea50d1cbac27 -> 
   custom:video-decoder-webm-vp8: 9c59270c3fd7afecdb556c50c9e8de78 -> 
   custom:audio-decoder-ogg-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
+========================================================================
+Received Import Request.
+  Time since last request: 1206.092296 seconds.
+  path: Assets/Materials/Materials/floor.mat
+  artifactKey: Guid(a3a0e0f8e3b19ed4d874ff8f7a281417) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Materials/Materials/floor.mat using Guid(a3a0e0f8e3b19ed4d874ff8f7a281417) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'e4077b4a30d815f05859edb68590014c') in 0.744678 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 1.729301 seconds.
+  path: Assets/Materials/Textures/FloorTile/FloorTileDiffuse.png
+  artifactKey: Guid(73bc6c9863b614043832693114d4546e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Materials/Textures/FloorTile/FloorTileDiffuse.png using Guid(73bc6c9863b614043832693114d4546e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '530d2c653f3cf0be96c1ba3928347018') in 0.222981 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000046 seconds.
+  path: Assets/Materials/Textures/FloorTile/FloorTileSpecular.png
+  artifactKey: Guid(aa832a5c75c774bb0ad229efb7c281c8) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Materials/Textures/FloorTile/FloorTileSpecular.png using Guid(aa832a5c75c774bb0ad229efb7c281c8) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '1d119c6370350e75d26c8599a2d2e8b0') in 0.045233 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 2.459236 seconds.
+  path: Assets/Materials/Textures/RustyMetalPattern/Rusty_Metal_basecolor.png
+  artifactKey: Guid(bcef91030b2d9411eb09418499786421) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Materials/Textures/RustyMetalPattern/Rusty_Metal_basecolor.png using Guid(bcef91030b2d9411eb09418499786421) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'acbea1294726271b920db13f39d65c8a') in 0.052327 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000034 seconds.
+  path: Assets/Materials/Textures/RustyMetalPattern/Rusty_Metal_roughness.png
+  artifactKey: Guid(3ef4ebf7089a74b51b16919e083c389e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Materials/Textures/RustyMetalPattern/Rusty_Metal_roughness.png using Guid(3ef4ebf7089a74b51b16919e083c389e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '0d399e9f84a0442510a357e1fd31cdab') in 0.045348 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000035 seconds.
+  path: Assets/Materials/Textures/RustyMetalPattern/Rusty_Metal_height.png
+  artifactKey: Guid(774452e68bf174b459ea77652e3d71b3) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Materials/Textures/RustyMetalPattern/Rusty_Metal_height.png using Guid(774452e68bf174b459ea77652e3d71b3) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'c7ece9b943db15c7f967bdaf78722749') in 0.043847 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 806.392142 seconds.
+  path: Assets/Prefab/pick up cuby.prefab
+  artifactKey: Guid(a543c737f7bb8284d9bdc084d3f42c47) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Prefab/pick up cuby.prefab using Guid(a543c737f7bb8284d9bdc084d3f42c47) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '4e067449a037742775de1463d06e94d6') in 0.051590 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000022 seconds.
+  path: Assets/Prefab/shootabale cuby.prefab
+  artifactKey: Guid(be63a68ca5184814aa9677da31b226e2) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Prefab/shootabale cuby.prefab using Guid(be63a68ca5184814aa9677da31b226e2) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'a2a868459602acc12011312f59f54957') in 0.033762 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000025 seconds.
+  path: Assets/Prefab/SimpleFloorWithReset.prefab
+  artifactKey: Guid(3785100eba7624cadb970ef4ac148757) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Prefab/SimpleFloorWithReset.prefab using Guid(3785100eba7624cadb970ef4ac148757) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '562c69383f55d7cfb6c5900cc4a69098') in 0.333360 seconds 
+Editor requested this worker to shutdown with reason: Scaling down because of idle timeout
+AssetImportWorker is now disconnected from the server
+Process exiting
+Exiting without the bug reporter. Application will terminate with return code 0

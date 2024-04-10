@@ -461,3 +461,97 @@ Received Import Request.
   path: Assets/Scenes/Obstacle Box.controller
   artifactKey: Guid(614670588710e5547a7be66bac59cd69) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
 Start importing Assets/Scenes/Obstacle Box.controller using Guid(614670588710e5547a7be66bac59cd69) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '12f17a640055f3e87e7a4c187f83647b') in 0.096733 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 288.780345 seconds.
+  path: Assets/Scenes
+  artifactKey: Guid(539bad8604f2648a0ac306cdd2fee2db) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scenes using Guid(539bad8604f2648a0ac306cdd2fee2db) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'e8ccae4e0ad070c02689d24097c18220') in 0.032096 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 23.472067 seconds.
+  path: Assets/Scenes/fps game.unity
+  artifactKey: Guid(471f5a9486d3f48459cc5e8488b06a28) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scenes/fps game.unity using Guid(471f5a9486d3f48459cc5e8488b06a28) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '0a446171712ded4006d88c3dae85bae1') in 0.021097 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 84.085938 seconds.
+  path: Assets/Scenes/fps game resources
+  artifactKey: Guid(82edf2be7cd16ad49b87342828b1e669) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scenes/fps game resources using Guid(82edf2be7cd16ad49b87342828b1e669) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '92bce07d32b2c2d31930e7ae4ae8437f') in 0.034421 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 22.404901 seconds.
+  path: Assets/Scenes/fps game resources/concret.mat
+  artifactKey: Guid(4b7da3548dcc3a34b93bb78ef8ffde59) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scenes/fps game resources/concret.mat using Guid(4b7da3548dcc3a34b93bb78ef8ffde59) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '8527a4960cc4a3363374e9f6cd2a4746') in 0.751681 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 77.448908 seconds.
+  path: Assets/Scenes/Lesson 2-5/NavMesh.asset
+  artifactKey: Guid(d0fe30235c33d8e4ea62b6b86072e7b6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scenes/Lesson 2-5/NavMesh.asset using Guid(d0fe30235c33d8e4ea62b6b86072e7b6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'c7d139e6183b9439a9ba3bb415a499ca') in 0.022187 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 3.098769 seconds.
+  path: Assets/Materials/Materials
+  artifactKey: Guid(7f8ac541969ec6d469a06ec658da1563) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Materials/Materials using Guid(7f8ac541969ec6d469a06ec658da1563) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '7b057c4edbeb034257d10c0af61eaf56') in 0.016667 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.040100 seconds.
+  path: Assets/Materials/Materials/crate.mat
+  artifactKey: Guid(358a653698d837f45b6b9614d1b2db96) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Materials/Materials/crate.mat using Guid(358a653698d837f45b6b9614d1b2db96) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '88117f0f40ed35fe5574db04319c5176') in 0.550271 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000042 seconds.
+  path: Assets/Materials/Materials/Wood.mat
+  artifactKey: Guid(73069a3c3d22f2b40ae249bd1043b869) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Materials/Materials/Wood.mat using Guid(73069a3c3d22f2b40ae249bd1043b869) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'b4dc2abaf3a85c203d2772cc435ae4b3') in 0.044307 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000046 seconds.
+  path: Assets/Materials/Materials/wall.mat
+  artifactKey: Guid(e0484bc8f1b58534ba01736de6d58b39) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Materials/Materials/wall.mat using Guid(e0484bc8f1b58534ba01736de6d58b39) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'be39c8549ee1cb5bb7df21039a1df71c') in 0.655493 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 1.159626 seconds.
+  path: Assets/Materials/Textures/FloorTile
+  artifactKey: Guid(cca40187d78044140bb5b63cd426eda5) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Materials/Textures/FloorTile using Guid(cca40187d78044140bb5b63cd426eda5) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '6d9de7fa1bd03e502898053cd54abcf8') in 0.012748 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.038510 seconds.
+  path: Assets/Materials/Textures/FloorTile/FloorTileAmbientOcclusion.png
+  artifactKey: Guid(42ba1b44aef554f2b819779299b8ad70) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Materials/Textures/FloorTile/FloorTileAmbientOcclusion.png using Guid(42ba1b44aef554f2b819779299b8ad70) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '08e16c5e766ecbc8b93017b7f8af023b') in 0.228179 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000058 seconds.
+  path: Assets/Materials/Textures/FloorTile/FloorTileNormal.png
+  artifactKey: Guid(d9f4fb2a51c5e4b8ca9fda81bff58970) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Materials/Textures/FloorTile/FloorTileNormal.png using Guid(d9f4fb2a51c5e4b8ca9fda81bff58970) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '36c7fabf5a2257b0b62a67d81be04938') in 0.054500 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 2.447335 seconds.
+  path: Assets/Materials/Textures/RustyMetalPattern/Rusty_Metal_ambientOcclusion.png
+  artifactKey: Guid(e996ded935aa24df4bf95ff9d81a402a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Materials/Textures/RustyMetalPattern/Rusty_Metal_ambientOcclusion.png using Guid(e996ded935aa24df4bf95ff9d81a402a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '7232254594cd29dfdaf64d1c381ce09e') in 0.041348 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000035 seconds.
+  path: Assets/Materials/Textures/RustyMetalPattern/Rusty_Metal_metallic.png
+  artifactKey: Guid(ddc52cf0b92024989b32be45fd274ae4) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Materials/Textures/RustyMetalPattern/Rusty_Metal_metallic.png using Guid(ddc52cf0b92024989b32be45fd274ae4) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '6168cb2986755c779effea513e4039b0') in 0.037420 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000039 seconds.
+  path: Assets/Materials/Textures/RustyMetalPattern/Rusty_Metal_normal.png
+  artifactKey: Guid(74f9ab863a33747a5b515bc219d0a870) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Materials/Textures/RustyMetalPattern/Rusty_Metal_normal.png using Guid(74f9ab863a33747a5b515bc219d0a870) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '1fb6ac66437d98ee415b69698eff1b07') in 0.049870 seconds 
+Editor requested this worker to shutdown with reason: Scaling down because of idle timeout
+AssetImportWorker is now disconnected from the server
+Process exiting
+Exiting without the bug reporter. Application will terminate with return code 0
